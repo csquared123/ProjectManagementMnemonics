@@ -18,6 +18,7 @@
     * An Introduction to Project Management http://intropm.com/
     * Healthcare Project Management http://healthcarepm.com/
     * PM Texts by Kathy Schwalbe https://pmtexts.com/
+    * Project management templates https://pmtexts.com/free-resources/free-templates/ (The top link on that page is a zip file you can download.)
 
 ## Online Resources
 
