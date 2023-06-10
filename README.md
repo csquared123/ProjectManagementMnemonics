@@ -9,6 +9,10 @@
   * mnemonic: Project managers who integrate scope, schedule, cost, and quality human communication risk procuring stakeholders.
   * 10 knowledge areas: Integration, Scope, Schedule, Cost, Quality, (Human) Resource, Communication, Risk, Procurement, Stakeholder 
 
+## Online Quizzes
+
+* Dummy Proof-of-Concept Quiz https://cmcntsh.github.io/ProjectManagementMnemonics/quiz1.html
+
 ## Publications
 
 * Kogon, K., Blakemore, S., & Wood, J. (2015). Project management for the unofficial project manager. BenBella Books, Inc. 
@@ -26,5 +30,9 @@
   * Certifications https://www.pmi.org/certifications
     * CAPM https://www.pmi.org/certifications/certified-associate-capm
     * PMP https://www.pmi.org/certifications/project-management-pmp
+
+## Training
+
+* University of Utah Continuing Education https://continue.utah.edu/proed/proj-mgt
 
 
