@@ -12,6 +12,7 @@
 ## Online Quizzes
 
 * Dummy Proof-of-Concept Quiz https://cmcntsh.github.io/ProjectManagementMnemonics/quiz1.html
+* Fundamentals Quiz 1 https://cmcntsh.github.io/ProjectManagementMnemonics/FundamentalsQuiz1.html
 
 ## Publications
 
