@@ -13,6 +13,7 @@
 
 * Dummy Proof-of-Concept Quiz https://cmcntsh.github.io/ProjectManagementMnemonics/quiz1.html
 * Fundamentals Quiz 1 (PROEA 601 Modules 1 & 2) https://cmcntsh.github.io/ProjectManagementMnemonics/FundamentalsQuiz1.html
+* Fundamentals Quiz 2 (PROEA 601 Modules 3) https://cmcntsh.github.io/ProjectManagementMnemonics/FundamentalsQuiz2.html
 
 ## Publications
 
