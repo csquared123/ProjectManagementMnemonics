@@ -23,6 +23,20 @@
 | You can use a phone number to know the number of processes for each knowledge area. (766)436-3734 | Integrate (7), Scope (6), Schedule (6), Cost (4), Quality (3), Resources (6), Communication (3), Risk (7), Procuring (3), Stakeholders (4) |
 | Or you can use a mnemonic to remember the numbers. A 76 year old man was married to a 64 year old woman for 36 years. They had 3 kids who were 7 feet, 3 feet, and 4 feet tall. | Integrate (7), Scope (6), Schedule (6), Cost (4), Quality (3), Resources (6), Communication (3), Risk (7), Procuring (3), Stakeholders (4) |
 
+The overall matrix looks like a building with a flat roof. The roof hangs over the walls on both sides. The building has a window in the middle, just under the roof. There is a porch on the left side of the building.
+
+| |I|P|E|M|C|
+|I|x|x|x|x|x|
+|S| |x| |x| |
+|S| |x| |x| |
+|C| |x| |x| |
+|Q| |x|x|x| |
+|R| |x|x|x| |
+|C| |x|x|x| |
+|R| |x|x|x| |
+|P| |x|x|x| |
+|S|x|x|x|x| |
+
 ### Initiation Process Group
 
 ### Planning Process Group
