@@ -95,7 +95,7 @@ This section has some ways to help remember the cell contents in the Initiation 
   * Certifications https://www.pmi.org/certifications
     * CAPM https://www.pmi.org/certifications/certified-associate-capm
     * PMP https://www.pmi.org/certifications/project-management-pmp
-* What to study to pass the PMP exam (11 minutes) https://www.youtube.com/watch?v=SCnpFb9gVI4
+* What to study to pass the PMP exam (11 minutes) (Highly recommended. This video shows the text that has replaced PMBOK 6. It's not PMBOK 7!) https://www.youtube.com/watch?v=SCnpFb9gVI4
 * How to fill PMP application online 2023 (33 minutes) https://www.youtube.com/watch?v=sKLkG-pTD-U
 * 200 Agile PMP questions and answers (6 hours 49 minutes) https://www.youtube.com/watch?v=tNIHysh2ZW4
 
