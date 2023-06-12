@@ -9,6 +9,10 @@
   * mnemonic: Project managers who integrate scope, schedule, cost, and quality human communication risk procuring stakeholders.
   * 10 knowledge areas: Integration, Scope, Schedule, Cost, Quality, (Human) Resource, Communication, Risk, Procurement, Stakeholder 
 
+| Mnemonic | Meaning |
+|----------|---------|
+| Initiated Projects Eventually Must Finish. | Initiation, Planning, Execution, Monitor & Control, Finishing |
+
 ## Online Quizzes
 
 * Dummy Proof-of-Concept Quiz https://cmcntsh.github.io/ProjectManagementMnemonics/quiz1.html
