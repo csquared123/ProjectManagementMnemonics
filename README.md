@@ -2,6 +2,8 @@
 
 ## Mnemonics to Help Remember Concepts
 
+* The goal of these mnemonics is to help memorize the 49 processes in the PEMBOK 6 chart.
+* Memorize the 49 processes in PEMBOK 6 (16 minutes) https://www.youtube.com/watch?v=EAz-6M-RAV0
 * 5 phases of a project
   * mnemonic: Initiated projectes eventually must end.
   * 5 phases: Initiation, Planning, Execution, Monitor and Control, Ending
