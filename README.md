@@ -10,6 +10,8 @@
 
 ### PMBOK 6 Process Groups and Knowledge Areas Matrix
 
+This first section has some strategies to remember the row and column names and the general shape of the matrix.
+
 | Mnemonic | Meaning |
 |----------|---------|
 | Initiated Projects Eventually Must Close. | (Column Names) Initiation, Planning, Execution, Monitor & Control, Closing |
@@ -39,6 +41,26 @@ The overall matrix looks like a building with a flat roof. The roof hangs over t
 |S|x|x|x|x| |
 
 ### Initiation Process Group
+
+This section has some ways to help remember the cell contents in the Initiation column. There are only two rows that containt text - Integration, Stakeholder.
+
+| Mnemonic | Meaning |
+|----------|---------|
+| Do It! | Develop project charter, Identify stakeholders |
+| I Can Start | develop project Charter, identify Stakeholders |
+
+|   | I | P | E | M | C |
+| --- | --- | --- | --- | --- | --- |
+|I|Develop Project Charter|x|x|x|x|
+|S| |x| |x| |
+|S| |x| |x| |
+|C| |x| |x| |
+|Q| |x|x|x| |
+|R| |x|x|x| |
+|C| |x|x|x| |
+|R| |x|x|x| |
+|P| |x|x|x| |
+|S|Identify Stakeholders|x|x|x| |
 
 ### Planning Process Group
 
