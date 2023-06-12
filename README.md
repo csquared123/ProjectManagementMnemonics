@@ -95,6 +95,7 @@ This section has some ways to help remember the cell contents in the Initiation 
   * Certifications https://www.pmi.org/certifications
     * CAPM https://www.pmi.org/certifications/certified-associate-capm
     * PMP https://www.pmi.org/certifications/project-management-pmp
+* What to study to pass the PMP exam (11 minutes) https://www.youtube.com/watch?v=SCnpFb9gVI4
 
 ## Training
 
