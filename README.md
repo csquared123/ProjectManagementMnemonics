@@ -2,11 +2,14 @@
 
 ## Mnemonics to Help Remember Concepts
 
-* The goal of these mnemonics is to help memorize the 49 processes in the PEMBOK 6 chart.
+* The goal of these mnemonics is to help memorize the 49 processes in the PMBOK 6 chart.
 * These videos provide some useful suggestions.
-  * Memorize the 49 processes in PEMBOK 6 using mnemonics and patterns (16 minutes) https://www.youtube.com/watch?v=EAz-6M-RAV0
-  * Memorize the 49 processes in PEMBOK 6 using a house metaphore and keywords (22 minutes) https://www.youtube.com/watch?v=bgc86nZawAM
-  * Memorize the 49 processes in PEMBOK 6 using patterns and logic (27 minutes) https://www.youtube.com/watch?v=5eXyCLf2JD0
+  * Memorize the 49 processes in PMBOK 6 using mnemonics and patterns (16 minutes) https://www.youtube.com/watch?v=EAz-6M-RAV0
+  * Memorize the 49 processes in PMBOK 6 using a house metaphore and keywords (22 minutes) https://www.youtube.com/watch?v=bgc86nZawAM
+  * Memorize the 49 processes in PMBOK 6 using patterns and logic (27 minutes) https://www.youtube.com/watch?v=5eXyCLf2JD0
+
+### PMBOK 6 Process Groups and Knowledge Areas Matrix
+
 * 5 phases of a project
   * mnemonic: Initiated projectes eventually must end.
   * 5 phases: Initiation, Planning, Execution, Monitor and Control, Ending
@@ -16,7 +19,18 @@
 
 | Mnemonic | Meaning |
 |----------|---------|
-| Initiated Projects Eventually Must Finish. | Initiation, Planning, Execution, Monitor & Control, Finishing |
+| Initiated Projects Eventually Must Finish. | (Column Names) Initiation, Planning, Execution, Monitor & Control, Finishing |
+| Project managers who Integrate Scale, Schedule, Cost, and Quality Human Communication Risk Procuring Stakeholders | (Row Names) Integrate, Scale, Schedule, Cost, Quality, (Human) Resources, Communication, Risk, Procurement, Stakeholders |
+
+### Initiation Process Group
+
+### Planning Process Group
+
+### Executing Process Group
+
+### Monitor & Control Process Group
+
+### Closing Process Group
 
 ## Online Quizzes
 
