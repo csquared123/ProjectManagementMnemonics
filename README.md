@@ -47,7 +47,7 @@ This section has some ways to help remember the cell contents in the Initiation 
 | Mnemonic | Meaning |
 |----------|---------|
 | Do It! | Develop project charter, Identify stakeholders |
-| I Can Start | develop project Charter, identify Stakeholders |
+| I Can Start! | develop project Charter, identify Stakeholders |
 
 |   | I | P | E | M | C |
 | --- | --- | --- | --- | --- | --- |
