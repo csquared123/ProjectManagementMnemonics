@@ -101,6 +101,7 @@ This section has some ways to help remember the cell contents in the Initiation 
 
 ## Training
 
+* PMP Exam Prep Simplified https://www.amazon.com/PMP-Exam-Prep-Simplified-Learning/dp/B08SBFTXQT/ref=sr_1_1?crid=2FD5DCXIOMYE0&keywords=pmp+exam+prep+simplified&qid=1686605563&sprefix=%2Caps%2C536&sr=8-1
 * University of Utah Continuing Education https://continue.utah.edu/proed/proj-mgt
 
 
