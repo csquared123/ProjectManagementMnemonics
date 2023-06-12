@@ -25,7 +25,8 @@
 
 The overall matrix looks like a building with a flat roof. The roof hangs over the walls on both sides. The building has a window in the middle, just under the roof. There is a porch on the left side of the building.
 
-| |I|P|E|M|C|
+|   | I | P | E | M | C |
+| . | . | . | . | . | . |
 |I|x|x|x|x|x|
 |S| |x| |x| |
 |S| |x| |x| |
