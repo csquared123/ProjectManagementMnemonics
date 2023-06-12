@@ -10,17 +10,18 @@
 
 ### PMBOK 6 Process Groups and Knowledge Areas Matrix
 
-* 5 phases of a project
-  * mnemonic: Initiated projectes eventually must end.
-  * 5 phases: Initiation, Planning, Execution, Monitor and Control, Ending
-* 10 project management knowledge areas
-  * mnemonic: Project managers who integrate scope, schedule, cost, and quality human communication risk procuring stakeholders.
-  * 10 knowledge areas: Integration, Scope, Schedule, Cost, Quality, (Human) Resource, Communication, Risk, Procurement, Stakeholder 
-
 | Mnemonic | Meaning |
 |----------|---------|
-| Initiated Projects Eventually Must Finish. | (Column Names) Initiation, Planning, Execution, Monitor & Control, Finishing |
+| Initiated Projects Eventually Must Close. | (Column Names) Initiation, Planning, Execution, Monitor & Control, Closing |
 | Project managers who Integrate Scale, Schedule, Cost, and Quality Human Communication Risk Procuring Stakeholders | (Row Names) Integrate, Scale, Schedule, Cost, Quality, (Human) Resources, Communication, Risk, Procurement, Stakeholders |
+| 5 x 10 = 50 (adjust to 49) | There are 49 processes. 5 x 10 = 50, but nothing is perfect in project management so it's ajusted to 49. |
+| The biggest job is planning so almost half of the processes are in Planning | Planning (24 processes) |
+| The next biggest job is monitoring. Half of Planning is in Monitoring. | Monitor & Control (12 processes) |
+| Executing has a little less than Monitoring. There are two fewer. | Executing (10 processes) |
+| Closing is easy. There's only one. | Closing (1 process) |
+| Initation has what is left. There's only two. | Initating (2 processes) |
+| You can use a phone number to know the number of processes for each knowledge area. (766)436-3734 | Integrate (7), Scope (6), Schedule (6), Cost (4), Quality (3), Resources (6), Communication (3), Risk (7), Procuring (3), Stakeholders (4) |
+| Or you can use a mnemonic to remember the numbers. A 76 year old man was married to a 64 year old woman for 36 years. They had 3 kids who were 7 feet, 3 feet, and 4 feet tall. | Integrate (7), Scope (6), Schedule (6), Cost (4), Quality (3), Resources (6), Communication (3), Risk (7), Procuring (3), Stakeholders (4) |
 
 ### Initiation Process Group
 
