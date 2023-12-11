@@ -79,7 +79,7 @@ This section has some ways to help remember the cell contents in the Initiation 
 * Planning Quiz 1 (PROEA 601 Modules 6 Communication & Scope) https://cmcntsh.github.io/ProjectManagementMnemonics/PlanningQuiz1.html
 * Planning Quiz 2 (PROEA 602 Modules 3 WBS, Scheduling, Critical Path) https://cmcntsh.github.io/ProjectManagementMnemonics/PlanningQuiz2.html
 * Planning Quiz 3 (PROEA 602 Modules 3 Estimation, Procurement, Quality, Risk) https://cmcntsh.github.io/ProjectManagementMnemonics/PlanningQuiz3.html
-* Dummy Quiz 2 https://csquared123.github.io/ProjectManagementMnemonics/main/quiz2.html
+* Dummy Quiz 2 https://csquared123.github.io/ProjectManagementMnemonics/quiz2.html
 * 
 ## Publications
 
