@@ -84,6 +84,42 @@ let questions = [
     ],
     note: "Source: Made up question."
   },
+{
+    numb: "1.8",
+    question: "When does the Spring 2024 semester start?",
+    answer: "January 8",
+    options: [
+      "January 1",
+      "January 8",
+      "January 15",
+      "Never. Winter break will be continue for the next 3 months."
+    ],
+    note: "Source: Made up question."
+  },
+{
+    numb: "1.9",
+    question: "What does a computer eat?",
+    answer: "Micro chips, one byte at a time",
+    options: [
+      "students",
+      "your homework",
+      "your unsaved files",
+      "Micro chips, one byte at a time"
+    ],
+    note: "Source: Made up question."
+  },
+{
+    numb: "1.10",
+    question: "What do you call a computer superhero",
+    answer: "A screen saver",
+    options: [
+      "A screen saver",
+      "Batman",
+      "Superman",
+      "Captain America"
+    ],
+    note: "Source: Made up question."
+  },
   // you can uncomment the below codes and make duplicate as more as you want to add question
   // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
 
